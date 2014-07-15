@@ -1,0 +1,14 @@
+- name: Revista DC
+  url: http://bogota.revistadc.com.co/?os_dc_musica=sabe-usted-quien-es-lucho-bermudez
+  expo_url: http://bogota.revistadc.com.co/?os_dc_musica=sabe-usted-quien-es-lucho-bermudez
+  img: revistadc.png
+
+- name: El Espectador
+  url: http://blogs.elespectador.com/elmagazin/2012/09/27/lucho-bermudez-100-anos-de-alegria/
+  expo_url: http://blogs.elespectador.com/elmagazin/2012/09/27/lucho-bermudez-100-anos-de-alegria/
+  img: espectador.png
+
+- name: El Universal
+  url: http://www.eluniversal.com.co/cartagena/cultural/cronologia-de-la-vida-de-lucho-bermudez-62182
+  expo_url: http://www.eluniversal.com.co/cartagena/cultural/cronologia-de-la-vida-de-lucho-bermudez-62182
+  img: universal.jpg
